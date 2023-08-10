@@ -29,11 +29,11 @@
 ## Login:
 ![Offer screenshot](public/login.jpg)
 
-## singup step 1:
+## Singup step 1:
 ![Offer screenshot](public/singup-1.jpg)
 
-## singup step 12:
+## Singup step 12:
 ![Offer screenshot](public/singup-2.jpg)
 
-## singup step 3:
+## Singup step 3:
 ![Offer screenshot](public/singup-3.jpg)
