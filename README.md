@@ -8,7 +8,6 @@
 - Redux
 - Axios
 - Ant Design
-- Jest
 - React Router
 
 ## Users:
