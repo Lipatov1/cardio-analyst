@@ -32,7 +32,7 @@
 ## Singup step 1:
 ![Offer screenshot](public/singup-1.jpg)
 
-## Singup step 12:
+## Singup step 2:
 ![Offer screenshot](public/singup-2.jpg)
 
 ## Singup step 3:
